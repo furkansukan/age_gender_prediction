@@ -122,7 +122,7 @@ Feel free to reach out for questions or feedback via:
 
 ---
 
-### 🚀 **Yaş, Cinsiyet ve Etnisite Tahmini Uygulaması!** 📸
+### 🚀 **Yaş, Cinsiyet ve Etnik Köken Tahmini Uygulaması!** 📸
 
 Bu proje, yüz resimlerinden **yaş, cinsiyet** ve **etnisite** tahmin etmek için derin öğrenme modellerini kullanmaktadır. **TensorFlow** ve **Streamlit** kullanılarak oluşturulmuştur ve erişilebilir:
 
