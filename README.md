@@ -1,7 +1,3 @@
-Here's the `README.md` file in both **English** and **Turkish**, with an emoji-infused style as per your request.
-
----
-
 # 🎉 Age, Gender, and Ethnicity Prediction 📸
 
 ---
